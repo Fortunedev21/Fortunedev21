@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Fortunedev21
 - 👀 I’m interested in all what's about web
-- 🌱 I’m currently learning Symfony
+- 🌱 I’m currently learning Drupal
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me fortuneaiounou21@gmail.com
+- 📫 How to reach me aiounoufortune21@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Okay 😅
 
