@@ -70,9 +70,9 @@ Statistiques & badges (optionnel)
 Comment me contacter
 --------------------
 - Email : aiounoufortune21@gmail.com
-- LinkedIn : https://www.linkedin.com/in/tonprofil
-- Twitter / X : https://twitter.com/ton_twitter
-- Portfolio : https://ton-site.exemple
+- LinkedIn : https://www.linkedin.com/in/fortuné-aïounou
+- Twitter / X : https://twitter.com/FortunéAiounou
+- Portfolio : https://architecte-digital.site
 
 Appel à l'action (CTA)
 ----------------------
