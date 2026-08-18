@@ -1,6 +1,6 @@
 # Salut, je suis Fortuné AïOUNOU 👋
 
-Développeur Web, Mobile & Data — je transforme des idées en applications belles, performantes et utiles. J'adore construire des produits complets : de l'API aux interfaces, jusqu'aux pipelines de données et aux modèles qui aident à mieux décider.
+Développeur Web, Mobile & Data — je transforme des idées en applications belles, performantes et utiles. J'adore construire des produits complets : de l'API aux interfaces, jusqu'aux pipelines [...]
 
 [![Followers](https://img.shields.io/github/followers/Fortunedev21?style=social)](https://github.com/Fortunedev21)
 [![Twitter](https://img.shields.io/twitter/follow/ton_twitter?style=social)](https://twitter.com/FortuneAiounou)
@@ -55,12 +55,14 @@ Contributions & open source
 - J'aime contribuer à des projets open source — PRs acceptées : liste tes dépôts ou organisations préférées.
 - Si tu veux collaborer : ouvre une issue / PR ou contacte‑moi directement.
 
+<!--
 Blog & ressources
 -----------------
 - Articles récents : 
   - "Titre article" — lien
   - "Titre article" — lien
 - Tutoriels : intégration mobile ↔ backend, pipelines ETL, tests E2E.
+-->
 
 Statistiques & badges (optionnel)
 ---------------------------------
