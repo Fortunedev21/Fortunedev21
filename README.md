@@ -35,19 +35,9 @@ Points forts
 - Approche produit : je priorise les utilisateurs et la valeur métier
 - DevOps & MLOps : CI/CD, tests, monitoring et déploiement de modèles
 
-Stack technique 
----------------
-- Langages : JavaScript, TypeScript, Python, SQL, HTML, CSS, C++, Visual Basic, Dart
-- Frontend : React, Next.js, Tailwind CSS
-- Mobile : Flutter, Kotlin, Dart
-- Backend : Symfony, Laravel, Node.js, Express, GraphQL, PostgreSQL
-- Data & ML : pandas, NumPy, scikit‑learn, PyTorch/TensorFlow
-- Outils : Git, GitHub Actions, Docker, Firebase
-- Tests & Qualité : Jest, React Testing Library, ESLint, Prettier
-
 ---
 
-### 🛠️ Langages & Frameworks
+### 🛠️ Stack Technique
 
 #### **Langages de Programmation**
 
