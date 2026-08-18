@@ -3,7 +3,7 @@
 Développeur Web, Mobile & Data — je transforme des idées en applications belles, performantes et utiles. J'adore construire des produits complets : de l'API aux interfaces, jusqu'aux pipelines [...]
 
 [![Followers](https://img.shields.io/github/followers/Fortunedev21?style=social)](https://github.com/Fortunedev21)
-[![Twitter](https://img.shields.io/twitter/follow/ton_twitter?style=social)](https://twitter.com/FortuneAiounou)
+[![Twitter](https://img.shields.io/twitter/follow/FortuneAiounou?style=social)](https://twitter.com/FortuneAiounou)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fortuné-aïounou)
 [![Website](https://img.shields.io/website?url=https://ton-site.exemple)](https://architecte-digital.site)
 
