@@ -45,6 +45,108 @@ Stack technique
 - Outils : Git, GitHub Actions, Docker, Firebase
 - Tests & Qualité : Jest, React Testing Library, ESLint, Prettier
 
+---
+
+### 🛠️ Langages & Frameworks
+
+#### **Langages de Programmation**
+
+| Langage | Badge | Frameworks & Outils |
+|---------|-------|---------------------|
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | 🔴 Expert | React, Next.js, Node.js, Express, Angular |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | 🔴 Expert | React, Vue.js, jQuery, Vanilla JS |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 🟠 Avancé | FastAPI, Django, Flask, pandas, NumPy, scikit-learn |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | 🟠 Avancé | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) Mobile Development |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) | 🟡 Intermédiaire | Android, Spring Boot |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | 🟡 Intermédiaire | Algorithms, Performance Computing |
+| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white) | 🟠 Avancé | PostgreSQL, MySQL, Data Analysis |
+| ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34C26?style=flat&logo=html5&logoColor=white) | 🔴 Expert | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) Accessibility, Web Standards |
+
+#### **Frontend & Web Development**
+
+| Framework | Logo | Utilisation |
+|-----------|------|------------|
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | React | Interfaces modernes, composants réutilisables, hooks |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | Next.js | Full-stack, SSR, SSG, API routes |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) | Tailwind | Design utilities, responsive design |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) | Vue.js | Composants réactifs, Single Page Applications |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) | Angular | Grandes applications d'entreprise |
+
+#### **Mobile Development**
+
+| Framework | Logo | Plateforme |
+|-----------|------|-----------|
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | Flutter | iOS, Android, Web, Desktop |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) | Kotlin | Android natif |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | Dart | Langage Flutter & backend |
+
+#### **Backend & Serveurs**
+
+| Framework | Logo | Utilisation |
+|-----------|------|------------|
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | Node.js | JavaScript runtime, serveurs |
+| ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | Express | APIs REST, middleware |
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | Laravel | PHP framework moderne |
+| ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) | Symfony | PHP framework robuste |
+| ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | Django | Python backend, ORM |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | FastAPI | APIs Python haute performance |
+| ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) | GraphQL | Query language moderne |
+
+#### **Data Science & Machine Learning**
+
+| Outil | Logo | Utilisation |
+|-------|------|------------|
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | Pandas | Data manipulation, analysis |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) | NumPy | Numerical computing |
+| ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | scikit-learn | Machine Learning algorithms |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | TensorFlow | Deep Learning |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | PyTorch | Deep Learning research |
+
+#### **Bases de Données**
+
+| Base de données | Logo | Utilisation |
+|-----------------|------|------------|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | PostgreSQL | RDBMS principal |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | MySQL | Web applications |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | MongoDB | NoSQL, documents |
+| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | Firebase | Backend-as-a-Service |
+
+#### **DevOps & Outils**
+
+| Outil | Logo | Utilisation |
+|-------|------|------------|
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | Git | Version control |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | GitHub | Repositories, CI/CD |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | Docker | Containerization |
+| ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) | GitHub Actions | CI/CD automation |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | Linux | Server management |
+
+#### **Testing & Quality**
+
+| Outil | Logo | Utilisation |
+|-------|------|------------|
+| ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) | Jest | Unit & integration tests |
+| ![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testinglibrary&logoColor=white) | React Testing Library | Component testing |
+| ![ESLint](https://img.shields.io/badge/ESLint-4B3B8A?style=flat&logo=eslint&logoColor=white) | ESLint | Code linting |
+| ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black) | Prettier | Code formatting |
+
+---
+
+### 💻 Langages Principaux
+
+| Langage | Niveau | Utilisation |
+|---------|--------|-------------|
+| **TypeScript** | 🔴 Expert | Frontend, Backend, Full-stack |
+| **Python** | 🟠 Avancé | Data Science, ML, Automation |
+| **JavaScript** | 🔴 Expert | React, Next.js, Node.js |
+| **Dart** | 🟠 Avancé | Flutter, Mobile Development |
+| **SQL** | 🟠 Avancé | PostgreSQL, Data Analysis |
+| **Kotlin** | 🟡 Intermédiaire | Android Development |
+| **C++** | 🟡 Intermédiaire | Algorithms, Performance |
+| **HTML/CSS** | 🔴 Expert | Web Standards, Accessibility |
+
+---
+
 Projets en vedette
 ------------------
 - [credit_app](https://github.com/Fortunedev21/credit_app) — Application Flutter moderne pour la gestion des demandes de prêts et services financiers. (Tech : Flutter, Dart)
@@ -59,7 +161,7 @@ Projets en vedette
 
 **Statut** : 🔨 En développement actif  
 **Stack** : Next.js 15+ | TypeScript | Modern Web Technologies  
-**Objectif** : Créer une solution robuste et scalable pour [pilotafrik]
+**Objectif** : Créer une solution robuste et scalable pour pilotafrik
 
 **Fonctionnalités en cours** :
 - Architecture full-stack avec Next.js
@@ -88,19 +190,6 @@ Statistiques
 </a>
 
 ---
-
-### 💻 Langages Principaux
-
-| Langage | Niveau | Utilisation |
-|---------|--------|-------------|
-| **TypeScript** | 🔴 Expert | Frontend, Backend, Full-stack |
-| **Python** | 🟠 Avancé | Data Science, ML, Automation |
-| **JavaScript** | 🔴 Expert | React, Next.js, Node.js |
-| **Dart** | 🟠 Avancé | Flutter, Mobile Development |
-| **SQL** | 🟠 Avancé | PostgreSQL, Data Analysis |
-| **Kotlin** | 🟡 Intermédiaire | Android Development |
-| **C++** | 🟡 Intermédiaire | Algorithms, Performance |
-| **HTML/CSS** | 🔴 Expert | Web Standards, Accessibility |
 
 Comment me contacter
 --------------------
