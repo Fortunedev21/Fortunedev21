@@ -1,11 +1,11 @@
 # Salut, je suis Fortuné AïOUNOU 👋
 
-Développeur Web, Mobile & Data — je transforme des idées en applications belles, performantes et utiles. J'adore construire des produits complets : de l'API aux interfaces, jusqu'aux pipelines [...]
+Développeur Web, Mobile & Data — je transforme des idées en applications belles, performantes et utiles. J'adore construire des produits complets : de l'API aux interfaces, jusqu'aux pipelines data.
 
 [![Followers](https://img.shields.io/github/followers/Fortunedev21?style=social)](https://github.com/Fortunedev21)
 [![Twitter](https://img.shields.io/twitter/follow/FortuneAiounou?style=social)](https://twitter.com/FortuneAiounou)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fortuné-aïounou)
-[![Website](https://img.shields.io/website?url=https://ton-site.exemple)](https://architecte-digital.site)
+[![Website](https://img.shields.io/website?url=https://architecte-digital.site)](https://architecte-digital.site)
 
 ---
 
@@ -27,9 +27,9 @@ Points forts
 
 Stack technique 
 ---------------
-- Langages : JavaScript, TypeScript, Python, SQL, HTML, CSS, C++, Visual Basic
+- Langages : JavaScript, TypeScript, Python, SQL, HTML, CSS, C++, Visual Basic, Dart
 - Frontend : React, Next.js, Tailwind CSS
-- Mobile : Flutter, Kotlin
+- Mobile : Flutter, Kotlin, Dart
 - Backend : Symfony, Laravel, Node.js, Express, GraphQL, PostgreSQL
 - Data & ML : pandas, NumPy, scikit‑learn, PyTorch/TensorFlow
 - Outils : Git, GitHub Actions, Docker, Firebase
@@ -37,43 +37,36 @@ Stack technique
 
 Projets en vedette
 ------------------
-- [Nom‑Projet‑Web](https://github.com/ton-compte/projet-web) — Une web app rapide et accessible pour gérer X. (Tech : Next.js, TypeScript)
-- [Nom‑Projet‑Mobile](https://github.com/ton-compte/projet-mobile) — App mobile cross‑platform pour Y (React Native + Expo).
-- [Nom‑Projet‑Data](https://github.com/ton-compte/projet-data) — Pipeline ETL + dashboard pour analyser Z (Airflow, BigQuery).
-- Portfolio / démos : https://ton-site.exemple
-
-(Indique ici 3 projets réels avec 1 phrase d'impact et tech utilisée — je peux les formatter pour qu'ils ressortent)
+- [credit_app](https://github.com/Fortunedev21/credit_app) — Application Flutter moderne pour la gestion des demandes de prêts et services financiers. (Tech : Flutter, Dart)
+- [delivery_app](https://github.com/Fortunedev21/delivery_app) — App de livraison en temps réel avec suivi des commandes et communication client. Intégration Active Ecommerce CMS (Tech : Flutter, Dart)
+- [GadgetHub](https://github.com/Fortunedev21/GadgetHub) — Plateforme e-commerce complète pour gadgets et électronique. (Tech : TypeScript, React/Next.js)
 
 Ce que je construis en ce moment
 -------------------------------
-- 🔭 Projet actuel : [Nom du projet] — courte phrase sur la mission / la valeur.
-- 🌱 Je me forme : TypeScript avancé, architectures distribuées, MLOps.
-- 🎯 Objectif 6 prochains mois : livrer un hackathon / publier un tutoriel complet.
+- 🔭 Projet actuel : amélioration continue de l'écosystème mobile & web
+- 🌱 Je me forme : Data Science, Machine Learning, architectures distribuées
+- 🎯 Objectif 6 prochains mois : publier des tutoriels complets et contribuer davantage à l'open source
 
 Contributions & open source
 ---------------------------
-- J'aime contribuer à des projets open source — PRs acceptées : liste tes dépôts ou organisations préférées.
-- Si tu veux collaborer : ouvre une issue / PR ou contacte‑moi directement.
+- J'aime contribuer à des projets open source — explorez mes repositories et laissez des PRs
+- Si tu veux collaborer : ouvre une issue / PR ou contacte‑moi directement
 
-<!--
-Blog & ressources
------------------
-- Articles récents : 
-  - "Titre article" — lien
-  - "Titre article" — lien
-- Tutoriels : intégration mobile ↔ backend, pipelines ETL, tests E2E.
--->
+Statistiques
+-----------
 
-Statistiques & badges (optionnel)
----------------------------------
-- Langages : `![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunedev21&layout=compact)`
-- Stats : `![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fortunedev21&show_icons=true)`
+<a href="https://github.com/Fortunedev21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fortunedev21&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/Fortunedev21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunedev21&layout=compact&theme=dark" alt="Top Languages"/>
+</a>
 
 Comment me contacter
 --------------------
 - Email : aiounoufortune21@gmail.com
 - LinkedIn : https://www.linkedin.com/in/fortuné-aïounou
-- Twitter / X : https://twitter.com/FortunéAiounou
+- Twitter / X : https://twitter.com/FortuneAiounou
 - Portfolio : https://architecte-digital.site
 
 Appel à l'action (CTA)
@@ -84,6 +77,6 @@ Si tu aimes ce que je fais :
 
 Remerciements
 -------------
-Merci d'être passé·e — si tu veux, je peux :  
+Merci d'être passé·e — si tu veux explorer davantage : visite mon portfolio ou contacte-moi !
 
 *Last update : 18/08/26*
