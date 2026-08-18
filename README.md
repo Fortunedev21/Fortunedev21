@@ -25,8 +25,8 @@ Points forts
 - Approche produit : je priorise les utilisateurs et la valeur métier
 - DevOps & MLOps : CI/CD, tests, monitoring et déploiement de modèles
 
-Stack technique (exemples — choisis ce que tu utilises)
--------------------------------------------------------
+Stack technique 
+---------------
 - Langages : JavaScript, TypeScript, Python, SQL, HTML, CSS, C++, Visual Basic
 - Frontend : React, Next.js, Tailwind CSS
 - Mobile : Flutter, Kotlin
@@ -80,20 +80,8 @@ Si tu aimes ce que je fais :
 - Suis‑moi sur GitHub pour voir mes projets : https://github.com/Fortunedev21
 - Partage ce repo, ouvre une issue, ou envoie un message — j'adore collaborer 🚀
 
-Conseils pour personnaliser (rapidement)
----------------------------------------
-1. Remplace les placeholders (nom du projet, liens, email).
-2. Ajoute 1 capture d'écran ou GIF dans /assets et insert :  
-   `![Demo](./assets/demo.gif)`  
-3. Si tu veux les widgets automatiques, autorise l'accès à vercel (pour github-readme-stats) ou fournis les clés si nécessaire.
-4. Si tu veux que je commette ce README, donne :  
-   - Bio exacte (1–2 phrases)  
-   - 3 projets (nom, URL, 1 phrase d'impact, tech)  
-   - Liens de contact (email, LinkedIn, Twitter, site)  
-   - Optionnel : image de demo dans repo (chemin), et branche (par défaut main)
-
 Remerciements
 -------------
 Merci d'être passé·e — si tu veux, je peux :  
 
-*Last update : 16/06/26*
+*Last update : 18/08/26*
