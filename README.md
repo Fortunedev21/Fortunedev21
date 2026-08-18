@@ -1,6 +1,6 @@
 # Salut, je suis Fortuné AïOUNOU 👋
 
-Développeur Web, Mobile & Data — je transforme des idées en applications belles, performantes et utiles. J'adore construire des produits complets : de l'API aux interfaces, jusqu'aux pipelines data et déploiement de modèles.
+Développeur Web, Mobile & Data — je transforme des idées en applications belles, performantes et utiles. J'adore construire des produits complets : de l'API aux interfaces, jusqu'aux pipelines data.
 
 [![Followers](https://img.shields.io/github/followers/Fortunedev21?style=social)](https://github.com/Fortunedev21)
 [![Twitter](https://img.shields.io/twitter/follow/FortuneAiounou?style=social)](https://twitter.com/FortuneAiounou)
@@ -86,6 +86,21 @@ Statistiques
 <a href="https://github.com/Fortunedev21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunedev21&layout=compact&theme=dark" alt="Top Languages"/>
 </a>
+
+---
+
+### 💻 Langages Principaux
+
+| Langage | Niveau | Utilisation |
+|---------|--------|-------------|
+| **TypeScript** | 🔴 Expert | Frontend, Backend, Full-stack |
+| **Python** | 🟠 Avancé | Data Science, ML, Automation |
+| **JavaScript** | 🔴 Expert | React, Next.js, Node.js |
+| **Dart** | 🟠 Avancé | Flutter, Mobile Development |
+| **SQL** | 🟠 Avancé | PostgreSQL, Data Analysis |
+| **Kotlin** | 🟡 Intermédiaire | Android Development |
+| **C++** | 🟡 Intermédiaire | Algorithms, Performance |
+| **HTML/CSS** | 🔴 Expert | Web Standards, Accessibility |
 
 Comment me contacter
 --------------------
