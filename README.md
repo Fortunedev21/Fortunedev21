@@ -69,8 +69,6 @@ Stack technique
 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | React | Interfaces modernes, composants réutilisables, hooks |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) | Next.js | Full-stack, SSR, SSG, API routes |
 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) | Tailwind | Design utilities, responsive design |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) | Vue.js | Composants réactifs, Single Page Applications |
-| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) | Angular | Grandes applications d'entreprise |
 
 #### **Mobile Development**
 
@@ -88,8 +86,6 @@ Stack technique
 | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | Express | APIs REST, middleware |
 | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | Laravel | PHP framework moderne |
 | ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) | Symfony | PHP framework robuste |
-| ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | Django | Python backend, ORM |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | FastAPI | APIs Python haute performance |
 | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) | GraphQL | Query language moderne |
 
 #### **Data Science & Machine Learning**
@@ -132,21 +128,6 @@ Stack technique
 
 ---
 
-### 💻 Langages Principaux
-
-| Langage | Niveau | Utilisation |
-|---------|--------|-------------|
-| **TypeScript** | 🔴 Expert | Frontend, Backend, Full-stack |
-| **Python** | 🟠 Avancé | Data Science, ML, Automation |
-| **JavaScript** | 🔴 Expert | React, Next.js, Node.js |
-| **Dart** | 🟠 Avancé | Flutter, Mobile Development |
-| **SQL** | 🟠 Avancé | PostgreSQL, Data Analysis |
-| **Kotlin** | 🟡 Intermédiaire | Android Development |
-| **C++** | 🟡 Intermédiaire | Algorithms, Performance |
-| **HTML/CSS** | 🔴 Expert | Web Standards, Accessibility |
-
----
-
 Projets en vedette
 ------------------
 - [credit_app](https://github.com/Fortunedev21/credit_app) — Application Flutter moderne pour la gestion des demandes de prêts et services financiers. (Tech : Flutter, Dart)
@@ -172,24 +153,12 @@ Projets en vedette
 
 **Autres objectifs** :
 - 🌱 Je me forme : Data Science, Machine Learning, architectures distribuées
-- 🎯 Objectif 6 prochains mois : publier des tutoriels complets et contribuer davantage à l'open source
+- 🎯 Objectif 6 prochains mois : Contribuer davantage à l'open source
 
 Contributions & open source
 ---------------------------
 - J'aime contribuer à des projets open source — explorez mes repositories et laissez des PRs
 - Si tu veux collaborer : ouvre une issue / PR ou contacte‑moi directement
-
-Statistiques
------------
-
-<a href="https://github.com/Fortunedev21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fortunedev21&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/Fortunedev21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunedev21&layout=compact&theme=dark" alt="Top Languages"/>
-</a>
-
----
 
 Comment me contacter
 --------------------
@@ -198,14 +167,11 @@ Comment me contacter
 - Twitter / X : https://twitter.com/FortuneAiounou
 - Portfolio : https://architecte-digital.site
 
-Appel à l'action (CTA)
-----------------------
+
 Si tu aimes ce que je fais : 
 - Suis‑moi sur GitHub pour voir mes projets : https://github.com/Fortunedev21
 - Partage ce repo, ouvre une issue, ou envoie un message — j'adore collaborer 🚀
 
-Remerciements
--------------
 Merci d'être passé·e — si tu veux explorer davantage : visite mon portfolio ou contacte-moi !
 
 *Last update : 18/08/26*
